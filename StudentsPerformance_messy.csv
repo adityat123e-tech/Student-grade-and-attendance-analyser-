@@ -1,0 +1,1001 @@
+admission_no,student_name,gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
+ adm20260001 ,Aditi Kapoor,female,group B,bachelor's degree,standard,none,72,72,74
+ADM20260002,Rohan Mehta,female,group C,some college,standard,completed,69,90,88
+ADM20260003,Arjun Mishra,female,group B,master's degree,standard,none,90,95,93
+ADM20260004,Aditi Roy,male,group A,associate's degree,free/reduced,none,47,57,44
+ADM20260005,Ananya Verma,male,group C,some college,standard,none,76,78,75
+ADM20260006,Kabir Joshi,female,group B,associate's degree,standard,none,71,83,78
+ADM20260007,Ira Kapoor,female,group B,some college,standard,completed,88,95,92
+ADM20260008,Ira Kapoor,male,group B,some college,free/reduced,none,40,43,39
+ADM20260009,Kabir Gupta,male,group D,high school,free/reduced,completed,64,64,67
+ADM20260010,Kavya Mehta,female,group B,high school,free/reduced,none,38,60,50
+ADM20260011,Kabir Khan,male,group C,associate's degree,standard,none,58,54,52
+ADM20260012,Vivaan Nair,male,group D,associate's degree,standard,none,40,52,43
+ADM20260013,Advait Malhotra,female,group B,high school,standard,none,65,81,73
+ADM20260014,Arjun Mishra,male,group A,some college,standard,completed,78,72,70
+ADM20260015,Kabir Mehta,female,group A,master's degree,standard,none,50,53,58
+ADM20260016,Meera Singh,female,group C,some high school,standard,none,69,75,78
+ADM20260017,Aditi Reddy,male,group C,high school,standard,none,88,89,86
+ADM20260018,Reyansh Verma,female,group B,some high school,free/reduced,none,18,32,28
+ADM20260019,Kavya Mishra,male,group C,master's degree,free/reduced,completed,46,42,46
+ADM20260020,Ishaan Malhotra,female,group C,associate's degree,free/reduced,none,54,58,61
+ADM20260017,Vivaan Kapoor,male,group D,high school,standard,none,66,69,63
+ADM20260022,Ira Khan,female,group B,some college,free/reduced,completed,65,75,70
+ADM20260023,Aditi Joshi,male,group D,some college,standard,none,44,54,53
+ADM20260024,Meera Nair,female,group C,some high school,standard,none,69,73,73
+ADM20260025,Rohan Kapoor,male,group D,bachelor's degree,free/reduced,completed,74,71,80
+ADM20260026,Advait Singh,male,group A,master's degree,free/reduced,none,73,74,72
+ADM20260027,Diya Mehta,male,group B,some college,standard,none,69,54,55
+ADM20260028,Meera Sharma,female,group C,bachelor's degree,standard,none,67,69,75
+ADM20260029,Kabir Gupta,male,group C,high school,standard,none,70,70,65
+ADM20260030,Ira Malhotra,female,group D,master's degree,standard,none,62,70,75
+ADM20260031,Reyansh Roy,female,group D,some college,standard,none,69,74,74
+ADM20260032,Diya Joshi,female,group B,some college,standard,none,63,65,61
+ADM20260033,Arjun Khan,female,group E,master's degree,free/reduced,none,56,72,65
+ADM20260034,Reyansh Khan,male,group D,some college,standard,none,40,42,38
+ADM20260035,Aditi Mehta,male,group E,some college,standard,none,97,87,82
+ADM20260036,Advait Singh,male,group E,associate's degree,standard,completed,81,81,79
+ADM20260037,Meera Gupta,female,group D,associate's degree,standard,none,74,81,83
+ADM20260038,Rohan Mehta,female,group D,some high school,free/reduced,none,50,64,59
+ADM20260002,Diya Singh,female,group D,associate's degree,free/reduced,completed,75,90,88
+ADM20260040,Saanvi Malhotra,male,group B,associate's degree,free/reduced,none,57,56,57
+ADM20260041,Myra Das,male,group C,associate's degree,free/reduced,none,55,61,54
+ADM20260042,Vivaan Mishra,female,group C,associate's degree,standard,none,58,73,68
+ADM20260043,Rohan Roy,female,group B,associate's degree,standard,none,53,58,65
+ADM20260044,Aditi Patel,male,group B,some college,free/reduced,completed,59,65,66
+ADM20260045,Advait Mishra,female,group E,associate's degree,free/reduced,none,50,56,54
+ADM20260046,Arjun Kapoor,male,group B,associate's degree,standard,none,65,54,57
+ADM20260047,Kavya Das,female,group A,associate's degree,standard,completed,55,65,62
+ADM20260048,Reyansh Patel,female,group C,high school,standard,none,66,71,76
+ADM20260049,Ananya Malhotra,female,group D,associate's degree,free/reduced,completed,57,74,76
+ADM20260050,Rohan Gupta,male,group C,high school,standard,completed,82,84,82
+ADM20260051,Kavya Singh,male,group E,some college,standard,none,53,55,48
+ADM20260052,Advait Sharma,male,group E,associate's degree,free/reduced,completed,77,69,68
+ adm20260053 ,Advait Kapoor,male,group C,some college,standard,none,53,44,42
+ADM20260054,Advait Malhotra,male,group D,high school,standard,none,88,78,75
+ADM20260055,Meera Roy,female,group C,some high school,free/reduced,completed,71,84,87
+ADM20260056,Ishaan Kapoor,female,group C,high school,free/reduced,none,33,41,43
+ADM20260056,Kabir Mehta,female,group E,associate's degree,standard,completed,82,85,86
+ADM20260058,Kabir Jain,male,group D,associate's degree,standard,none,52,55,49
+ADM20260059,Aarav Gupta,male,group D,some college,standard,completed,58,59,58
+ADM20260060,Ananya Verma,female,group C,some high school,free/reduced,none,0,17,10
+ADM20260061,Meera Malhotra,male,group E,bachelor's degree,free/reduced,completed,79,74,72
+ADM20260062,Rohan Mehta,male,group A,some high school,free/reduced,none,39,39,34
+ADM20260063,Kavya Jain,male,group A,associate's degree,free/reduced,none,62,61,55
+ADM20260064,Aditi Kapoor,female,group C,associate's degree,standard,none,69,80,71
+ADM20260065,Saanvi Malhotra,female,group D,some high school,standard,none,59,58,59
+ADM20260066,Saanvi Reddy,male,group B,some high school,standard,none,67,64,61
+ADM20260067,Aditi Reddy,male,group D,some high school,free/reduced,none,45,37,37
+ adm20260068 ,Advait Patel,female,group C,some college,standard,none,60,72,74
+ADM20260068,Saanvi Sharma,male,group B,associate's degree,free/reduced,none,61,58,56
+ADM20260070,Diya Das,female,group C,associate's degree,standard,none,39,64,57
+ADM20260071,Myra Singh,female,group D,some college,free/reduced,completed,58,63,73
+ADM20260072,Ishaan Das,male,group D,some college,standard,completed,63,55,63
+ADM20260073,Myra Mishra,female,group A,associate's degree,free/reduced,none,41,51,48
+ADM20260074,Aarav Singh,male,group C,some high school,free/reduced,none,61,57,56
+ADM20260075,Kavya Sharma,male,group C,some high school,standard,none,49,49,41
+ADM20260076,Kavya Patel,male,group B,associate's degree,free/reduced,none,44,41,38
+ADM20260077,Reyansh Patel,male,group E,some high school,standard,none,30,26,22
+ADM20260078,Arjun Malhotra,male,group A,bachelor's degree,standard,completed,80,78,81
+ADM20260079,Vivaan Reddy,female,group D,some high school,standard,completed,61,74,72
+ADM20260080,Kabir Kapoor,female,group E,master's degree,standard,none,62,68,68
+ADM20260081,Myra Malhotra,female,group B,associate's degree,standard,none,47,49,50
+ADM20260082,Arjun Das,male,group B,high school,free/reduced,none,49,45,45
+ADM20260083,Arjun Mishra,male,group A,some college,free/reduced,completed,50,47,54
+ADM20260084,Diya Gupta,male,group E,associate's degree,standard,none,72,64,63
+ADM20260085,Diya Sharma,male,group D,high school,free/reduced,none,42,39,34
+ADM20260061,Aditi Verma,female,group C,some college,standard,none,73,80,82
+ adm20260087 ,Advait Roy,female,group C,some college,free/reduced,none,76,83,88
+ADM20260088,Ira Mehta,female,group D,associate's degree,standard,none,71,71,74
+ADM20260089,Ira Gupta,female,group A,some college,standard,none,58,70,67
+ADM20260090,Reyansh Reddy,female,group D,some high school,standard,none,73,86,82
+ADM20260047,Myra Gupta,female,group C,bachelor's degree,standard,none,65,72,74
+ADM20260092,Meera Roy,male,group C,high school,free/reduced,none,27,34,36
+ADM20260093,Meera Mehta,male,group C,high school,standard,none,71,79,71
+ADM20260094,Vivaan Das,male,group C,associate's degree,free/reduced,completed,43,45,50
+ adm20260095 ,Ananya Patel,female,group B,some college,standard,none,79,86,92
+ADM20260096,Rohan Malhotra,male,group C,associate's degree,free/reduced,completed,78,81,82
+ADM20260097,Saanvi Khan,male,group B,some high school,standard,completed,65,66,62
+ADM20260098,Myra Verma,female,group E,some college,standard,completed,63,72,70
+ADM20260099,Diya Verma,female,group D,some college,free/reduced,none,58,67,62
+ADM20260100,Diya Joshi,female,group D,bachelor's degree,standard,none,65,67,62
+ADM20260101,Diya Nair,male,group B,some college,standard,none,79,67,67
+ADM20260102,Meera Roy,male,group D,bachelor's degree,standard,completed,68,74,74
+ADM20260103,Meera Patel,female,group D,associate's degree,standard,none,85,91,89
+ADM20260104,Advait Joshi,male,group B,high school,standard,completed,60,44,47
+ADM20260105,Ishaan Kapoor,male,group C,some college,standard,completed,98,86,90
+ADM20260106,Ishaan Roy,female,group C,some college,standard,none,58,67,72
+ADM20260107,Advait Mehta,female,group D,master's degree,standard,none,87,100,100
+ADM20260108,Ira Patel,male,group E,associate's degree,standard,completed,66,63,64
+ADM20260109,Aditi Verma,female,group B,associate's degree,free/reduced,none,52,76,70
+ADM20260110,Meera Nair,female,group B,some high school,standard,none,70,64,72
+ADM20260111,Vivaan Mehta,female,group D,associate's degree,free/reduced,completed,77,89,98
+ADM20260112,Ira Singh,male,group C,high school,standard,none,62,55,49
+ADM20260113,Ira Patel,male,group A,associate's degree,standard,none,54,53,47
+ADM20260114,Advait Jain,female,group D,some college,standard,none,51,58,54
+ADM20260115,Kabir Gupta,female,group E,bachelor's degree,standard,completed,99,100,100
+ADM20260116,Meera Mishra,male,group C,high school,standard,none,84,77,74
+ADM20260117,Aarav Kapoor,female,group B,bachelor's degree,free/reduced,none,75,85,82
+ADM20260082,Meera Roy,female,group D,bachelor's degree,standard,none,78,82,79
+ADM20260119,Rohan Das,female,group D,some high school,standard,none,51,63,61
+ADM20260120,Ishaan Malhotra,female,group C,some college,standard,none,55,69,65
+ADM20260121,Vivaan Jain,female,group C,bachelor's degree,standard,completed,79,92,89
+ADM20260122,Aditi Malhotra,male,group B,associate's degree,standard,completed,91,89,92
+ADM20260123,Rohan Verma,female,group C,some college,standard,completed,88,93,93
+ADM20260124,Advait Das,male,group D,high school,free/reduced,none,63,57,56
+ADM20260104,Advait Sharma,male,group E,some college,standard,none,83,80,73
+ADM20260126,Vivaan Mehta,female,group B,high school,standard,none,87,95,86
+ADM20260127,Ananya Khan,male,group B,some high school,standard,none,72,68,67
+ADM20260128,Rohan Gupta,male,group D,some college,standard,completed,65,77,74
+ADM20260129,Rohan Verma,male,group D,master's degree,standard,none,82,82,74
+ADM20260130,Vivaan Jain,female,group A,bachelor's degree,standard,none,51,49,51
+ADM20260051,Advait Gupta,male,group D,master's degree,standard,none,89,84,82
+ADM20260132,Ishaan Nair,male,group C,some high school,free/reduced,completed,53,37,40
+ADM20260133,Myra Jain,male,group E,some college,free/reduced,completed,87,74,70
+ADM20260134,Meera Khan,female,group C,some college,standard,completed,75,81,84
+ADM20260135,Saanvi Jain,male,group D,bachelor's degree,free/reduced,completed,74,79,75
+ADM20260136,Ishaan Sharma,male,group C,bachelor's degree,standard,none,58,55,48
+ADM20260137,Vivaan Joshi,male,group B,some high school,standard,completed,51,54,41
+ADM20260138,Arjun Mehta,male,group E,high school,standard,none,70,55,56
+ADM20260139,Meera Kapoor,female,group C,associate's degree,standard,none,59,66,67
+ADM20260002,Aditi Verma,male,group D,some college,standard,completed,71,61,69
+ADM20260113,Ishaan Mehta,female,group D,some high school,standard,none,76,72,71
+ adm20260142 ,Rohan Mehta,female,group C,some college,free/reduced,none,59,62,64
+ADM20260143,Meera Joshi,female,group E,some college,free/reduced,completed,42,55,54
+ADM20260144,Vivaan Jain,male,group A,high school,standard,none,57,43,47
+ADM20260115,Kabir Mehta,male,group D,some college,standard,none,88,73,78
+ADM20260146,Advait Patel,female,group C,some college,free/reduced,none,22,39,33
+ADM20260147,Myra Khan,male,group B,some high school,standard,none,88,84,75
+ADM20260148,Kabir Reddy,male,group C,associate's degree,free/reduced,none,73,68,66
+ADM20260149,Kavya Mehta,female,group D,bachelor's degree,standard,completed,68,75,81
+ADM20260150,Ishaan Sharma,male,group E,associate's degree,free/reduced,completed,100,100,93
+ADM20260151,Diya Mishra,male,group A,some high school,standard,completed,62,67,69
+ adm20260152 ,Aarav Nair,male,group A,bachelor's degree,standard,none,77,67,68
+ADM20260153,Kabir Gupta,female,group B,associate's degree,standard,completed,59,70,66
+ADM20260154,Ishaan Reddy,male,group D,bachelor's degree,standard,none,54,49,47
+ADM20260155,Diya Verma,male,group D,some high school,standard,none,62,67,61
+ADM20260156,Rohan Malhotra,female,group C,some college,standard,completed,70,89,88
+ADM20260157,Aditi Patel,female,group E,high school,free/reduced,completed,66,74,78
+ADM20260158,Ananya Malhotra,male,group B,some college,free/reduced,none,60,60,60
+ADM20260159,Ira Roy,female,group B,associate's degree,standard,completed,61,86,87
+ADM20260160,Myra Kapoor,male,group D,associate's degree,free/reduced,none,66,62,64
+ADM20260161,Diya Verma,male,group B,associate's degree,free/reduced,completed,82,78,74
+ADM20260162,Saanvi Nair,female,group E,some college,free/reduced,completed,75,88,85
+ADM20260016,Myra Singh,male,group B,master's degree,free/reduced,none,49,53,52
+ADM20260164,Ananya Sharma,male,group C,high school,standard,none,52,53,49
+ADM20260020,Vivaan Reddy,female,group E,master's degree,standard,none,81,92,91
+ADM20260166,Kabir Khan,female,group C,bachelor's degree,standard,completed,96,100,100
+ADM20260028,Ishaan Mishra,male,group C,high school,free/reduced,completed,53,51,51
+ADM20260168,Meera Kapoor,female,group B,master's degree,free/reduced,completed,58,76,78
+ADM20260169,Myra Khan,female,group B,high school,standard,completed,68,83,78
+ADM20260170,Ananya Joshi,female,group C,some college,free/reduced,completed,67,75,70
+ADM20260171,Rohan Patel,male,group A,high school,standard,completed,72,73,74
+ADM20260172,Saanvi Reddy,male,group E,some high school,standard,none,94,88,78
+ADM20260173,Reyansh Patel,female,group D,some college,standard,none,79,86,81
+ADM20260174,Myra Nair,female,group C,associate's degree,standard,none,63,67,70
+ADM20260175,Vivaan Gupta,female,group C,bachelor's degree,free/reduced,completed,43,51,54
+ADM20260176,Kabir Sharma,female,group C,master's degree,standard,completed,81,91,87
+ADM20260177,Ishaan Das,female,group B,high school,free/reduced,completed,46,54,58
+ADM20260178,Myra Joshi,female,group C,associate's degree,standard,completed,71,77,77
+ADM20260179,Vivaan Nair,female,group B,master's degree,free/reduced,completed,52,70,62
+ADM20260180,Aditi Roy,female,group D,some high school,standard,completed,97,100,100
+ADM20260181,Kavya Nair,male,group C,master's degree,free/reduced,completed,62,68,75
+ADM20260182,Ananya Nair,female,group C,some college,free/reduced,none,46,64,66
+ADM20260183,Aditi Reddy,female,group E,high school,standard,none,50,50,47
+ADM20260184,Meera Khan,female,group D,associate's degree,standard,none,65,69,70
+ADM20260021,Aarav Kapoor,male,group C,some high school,free/reduced,completed,45,52,49
+ADM20260186,Diya Malhotra,male,group C,associate's degree,free/reduced,completed,65,67,65
+ADM20260187,Arjun Khan,male,group E,high school,standard,none,80,76,65
+ADM20260188,Reyansh Verma,male,group D,some high school,standard,completed,62,66,68
+ADM20260189,Ira Roy,male,group B,some high school,free/reduced,none,48,52,45
+ADM20260190,Arjun Patel,female,group C,bachelor's degree,standard,none,77,88,87
+ADM20260191,Aarav Nair,female,group E,associate's degree,standard,none,66,65,69
+ADM20260192,Myra Singh,male,group D,some college,standard,completed,76,83,79
+ADM20260193,Aarav Verma,female,group B,some high school,standard,none,62,64,66
+ADM20260194,Aditi Mishra,male,group D,some college,standard,completed,77,62,62
+ADM20260195,Reyansh Gupta,female,group C,master's degree,standard,completed,69,84,85
+ADM20260196,Ira Gupta,male,group D,associate's degree,standard,none,61,55,52
+ADM20260197,Diya Jain,male,group C,some high school,free/reduced,completed,59,69,65
+ADM20260197,Ira Mishra,male,group E,high school,free/reduced,none,55,56,51
+ADM20260199,Aarav Singh,female,group B,some college,free/reduced,none,45,53,55
+ADM20260200,Ishaan Patel,female,group B,bachelor's degree,free/reduced,none,78,79,76
+ADM20260201,Myra Kapoor,female,group C,associate's degree,standard,completed,67,84,86
+ADM20260202,Diya Joshi,female,group D,some college,free/reduced,none,65,81,77
+ADM20260203,Meera Reddy,male,group C,associate's degree,standard,none,69,77,69
+ADM20260204,Arjun Gupta,female,group B,associate's degree,standard,none,57,69,68
+ADM20260205,Reyansh Sharma,male,group C,some college,standard,none,59,41,42
+ADM20260206,Vivaan Singh,male,group D,some high school,standard,completed,74,71,78
+ADM20260207,Ishaan Gupta,male,group E,bachelor's degree,standard,none,82,62,62
+ADM20260208,Aarav Malhotra,male,group E,high school,standard,completed,81,80,76
+ADM20260209,Myra Verma,female,group B,some college,free/reduced,none,74,81,76
+ADM20260210,Ishaan Reddy,female,group B,some college,free/reduced,none,58,61,66
+ADM20260211,Reyansh Roy,male,group D,some high school,free/reduced,completed,80,79,79
+ADM20260212,Advait Jain,male,group C,some college,free/reduced,none,35,28,27
+ADM20260213,Arjun Singh,female,group C,high school,free/reduced,none,42,62,60
+ADM20260214,Kavya Kapoor,male,group C,associate's degree,free/reduced,completed,60,51,56
+ADM20260215,Aarav Roy,male,group E,high school,standard,completed,87,91,81
+ADM20260216,Aditi Roy,male,group B,some high school,standard,completed,84,83,75
+ADM20260217,Kavya Gupta,female,group E,associate's degree,free/reduced,completed,83,86,88
+ADM20260218,Arjun Verma,female,group C,high school,free/reduced,none,34,42,39
+ADM20260219,Saanvi Nair,male,group B,high school,free/reduced,none,66,77,70
+ADM20260220,Aditi Das,male,group B,some high school,standard,completed,61,56,56
+ADM20260221,Myra Patel,female,group D,high school,standard,completed,56,68,74
+ADM20260222,Vivaan Mehta,male,group B,associate's degree,standard,none,87,85,73
+ADM20260223,Kabir Malhotra,female,group C,some high school,free/reduced,none,55,65,62
+ADM20260224,Diya Joshi,male,group D,some high school,standard,none,86,80,75
+ADM20260225,Kabir Patel,female,group B,associate's degree,standard,completed,52,66,73
+ adm20260226 ,Myra Nair,female,group E,master's degree,free/reduced,none,45,56,54
+ADM20260227,Meera Sharma,female,group C,some college,standard,none,72,72,71
+ADM20260228,Saanvi Reddy,male,group D,high school,standard,none,57,50,54
+ADM20260229,Vivaan Malhotra,male,group A,some high school,free/reduced,none,68,72,64
+ADM20260230,Kavya Verma,female,group C,some college,standard,completed,88,95,94
+ADM20260231,Ira Gupta,male,group D,some college,standard,none,76,64,66
+ADM20260232,Ira Das,male,group C,associate's degree,standard,none,46,43,42
+ADM20260233,Aarav Joshi,female,group B,bachelor's degree,standard,none,67,86,83
+ADM20260234,Vivaan Jain,male,group E,some high school,standard,none,92,87,78
+ADM20260235,Vivaan Nair,male,group C,bachelor's degree,standard,completed,83,82,84
+ADM20260236,Ira Kapoor,male,group D,associate's degree,standard,none,80,75,77
+ADM20260237,Arjun Mehta,male,group D,bachelor's degree,free/reduced,none,63,66,67
+ADM20260238,Rohan Kapoor,female,group D,some high school,standard,completed,64,60,74
+ADM20260239,Kavya Sharma,male,group B,some college,standard,none,54,52,51
+ADM20260240,Rohan Verma,male,group C,associate's degree,standard,none,84,80,80
+ADM20260241,Ishaan Mishra,male,group D,high school,free/reduced,completed,73,68,66
+ADM20260242,Ishaan Kapoor,female,group E,bachelor's degree,standard,none,80,83,83
+ADM20260243,Meera Singh,female,group D,high school,standard,none,56,52,55
+ADM20260244,Diya Reddy,male,group E,some college,standard,none,59,51,43
+ADM20260245,Advait Jain,male,group D,some high school,standard,none,75,74,69
+ADM20260246,Reyansh Mishra,male,group C,associate's degree,standard,none,85,76,71
+ADM20260247,Advait Jain,male,group E,associate's degree,standard,none,89,76,74
+ADM20260103,Ishaan Das,female,group B,high school,standard,completed,58,70,68
+ADM20260249,Aditi Khan,female,group B,high school,standard,none,65,64,62
+ADM20260250,Reyansh Das,male,group C,high school,standard,none,68,60,53
+ADM20260251,Aditi Malhotra,male,group A,some high school,standard,completed,47,49,49
+ADM20260252,Myra Mishra,female,group D,some college,free/reduced,none,71,83,83
+ADM20260253,Ishaan Mehta,female,group B,some high school,standard,completed,60,70,70
+ADM20260057,Kabir Singh,male,group D,master's degree,standard,none,80,80,72
+ADM20260255,Ishaan Singh,male,group D,high school,standard,none,54,52,52
+ADM20260256,Myra Roy,female,group E,some college,standard,none,62,73,70
+ADM20260257,Kavya Mishra,female,group C,associate's degree,free/reduced,none,64,73,68
+ADM20260258,Myra Verma,male,group C,associate's degree,standard,completed,78,77,77
+ADM20260259,Reyansh Verma,female,group B,some college,standard,none,70,75,78
+ADM20260260,Meera Jain,female,group C,master's degree,free/reduced,completed,65,81,81
+ADM20260261,Diya Gupta,female,group C,some high school,free/reduced,completed,64,79,77
+ADM20260262,Ananya Mishra,male,group C,some college,standard,completed,79,79,78
+ adm20260263 ,Diya Patel,female,group C,some high school,free/reduced,none,44,50,51
+ADM20260093,Reyansh Gupta,female,group E,high school,standard,none,99,93,90
+ADM20260265,Reyansh Nair,male,group D,high school,standard,none,76,73,68
+ADM20260266,Saanvi Gupta,male,group D,some high school,free/reduced,none,59,42,41
+ADM20260267,Vivaan Patel,female,group C,bachelor's degree,standard,none,63,75,81
+ADM20260268,Saanvi Gupta,female,group D,high school,standard,none,69,72,77
+ADM20260269,Meera Verma,female,group D,associate's degree,standard,completed,88,92,95
+ADM20260270,Kabir Sharma,female,group E,some college,free/reduced,none,71,76,70
+ADM20260271,Ira Sharma,male,group C,bachelor's degree,standard,none,69,63,61
+ADM20260272,Ananya Gupta,male,group C,some college,standard,none,58,49,42
+ADM20260273,Kavya Sharma,female,group D,associate's degree,free/reduced,none,47,53,58
+ADM20260259,Arjun Jain,female,group D,some college,standard,none,65,70,71
+ADM20260275,Kabir Malhotra,male,group B,some college,standard,completed,88,85,76
+ADM20260276,Advait Das,male,group C,bachelor's degree,standard,none,83,78,73
+ADM20260277,Kavya Khan,female,group C,some high school,standard,completed,85,92,93
+ADM20260278,Myra Reddy,female,group E,high school,standard,completed,59,63,75
+ adm20260279 ,Ira Nair,female,group C,some high school,free/reduced,none,65,86,80
+ADM20260083,Advait Mishra,male,group B,bachelor's degree,free/reduced,none,73,56,57
+ADM20260281,Kabir Sharma,male,group D,high school,standard,none,53,52,42
+ADM20260282,Meera Gupta,male,group D,high school,standard,none,45,48,46
+ADM20260283,Reyansh Singh,female,group D,bachelor's degree,free/reduced,none,73,79,84
+ADM20260284,Ananya Singh,female,group D,some college,free/reduced,completed,70,78,78
+ADM20260285,Rohan Jain,female,group B,some high school,standard,none,37,46,46
+ADM20260286,Myra Das,male,group B,associate's degree,standard,completed,81,82,82
+ADM20260287,Ishaan Sharma,male,group E,associate's degree,standard,completed,97,82,88
+ADM20260288,Aarav Khan,female,group B,some high school,standard,none,67,89,82
+ADM20260188,Reyansh Reddy,male,group B,bachelor's degree,free/reduced,none,88,75,76
+ADM20260290,Reyansh Verma,male,group E,some high school,standard,completed,77,76,77
+ADM20260291,Aditi Mishra,male,group C,associate's degree,standard,none,76,70,68
+ADM20260292,Aditi Sharma,male,group D,some high school,standard,none,86,73,70
+ADM20260293,Arjun Nair,male,group C,some high school,standard,completed,63,60,57
+ADM20260052,Ira Verma,female,group E,bachelor's degree,standard,none,65,73,75
+ADM20260295,Kavya Mishra,male,group D,high school,free/reduced,completed,78,77,80
+ADM20260296,Advait Nair,male,group B,associate's degree,free/reduced,none,67,62,60
+ADM20260297,Ananya Joshi,male,group A,some high school,standard,completed,46,41,43
+ADM20260298,Diya Kapoor,male,group E,associate's degree,standard,completed,71,74,68
+ADM20260299,Saanvi Kapoor,male,group C,high school,free/reduced,completed,40,46,50
+ADM20260300,Rohan Malhotra,male,group D,associate's degree,free/reduced,none,90,87,75
+ADM20260301,Saanvi Kapoor,male,group A,some college,free/reduced,completed,81,78,81
+ADM20260302,Ira Gupta,male,group D,some high school,free/reduced,none,56,54,52
+ADM20260152,Kavya Reddy,female,group C,associate's degree,standard,completed,67,84,81
+ADM20260304,Diya Reddy,male,group B,associate's degree,standard,none,80,76,64
+ adm20260305 ,Myra Mishra,female,group C,associate's degree,standard,completed,74,75,83
+ADM20260306,Kavya Mehta,male,group A,some college,standard,none,69,67,69
+ADM20260307,Advait Das,male,group E,some college,standard,completed,99,87,81
+ADM20260308,Rohan Malhotra,male,group C,some high school,standard,none,51,52,44
+ADM20260309,Ananya Patel,female,group B,associate's degree,free/reduced,none,53,71,67
+ADM20260310,Aarav Gupta,female,group D,high school,free/reduced,none,49,57,52
+ADM20260311,Arjun Mehta,female,group B,associate's degree,standard,none,73,76,80
+ADM20260312,Vivaan Das,male,group B,bachelor's degree,standard,none,66,60,57
+ADM20260313,Saanvi Singh,male,group D,bachelor's degree,standard,completed,67,61,68
+ADM20260314,Diya Khan,female,group C,associate's degree,free/reduced,completed,68,67,69
+ADM20260315,Kabir Khan,female,group C,bachelor's degree,standard,completed,59,64,75
+ADM20260316,Ira Khan,male,group C,high school,standard,none,71,66,65
+ADM20260317,Arjun Das,female,group D,master's degree,standard,completed,77,82,91
+ADM20260318,Vivaan Malhotra,male,group C,associate's degree,standard,none,83,72,78
+ADM20260319,Ananya Patel,male,group B,bachelor's degree,standard,none,63,71,69
+ADM20260034,Advait Joshi,female,group D,associate's degree,free/reduced,none,56,65,63
+ADM20260281,Rohan Nair,female,group C,high school,free/reduced,completed,67,79,84
+ adm20260322 ,Kavya Mehta,female,group E,high school,standard,none,75,86,79
+ADM20260323,Advait Khan,female,group C,some college,standard,none,71,81,80
+ADM20260324,Meera Reddy,female,group C,some high school,free/reduced,none,43,53,53
+ADM20260072,Myra Mishra,female,group C,high school,free/reduced,none,41,46,43
+ADM20260326,Meera Malhotra,female,group C,some college,standard,none,82,90,94
+ADM20260327,Ananya Kapoor,male,group C,some college,standard,none,61,61,62
+ADM20260328,Kabir Reddy,male,group A,some college,free/reduced,none,28,23,19
+ADM20260329,Advait Malhotra,male,group C,associate's degree,standard,completed,82,75,77
+ADM20260330,Aditi Patel,female,group B,some high school,standard,none,41,55,51
+ADM20260331,Vivaan Roy,male,group C,high school,standard,none,71,60,61
+ADM20260332,Aarav Singh,male,group C,associate's degree,standard,none,47,37,35
+ADM20260333,Saanvi Roy,male,group E,associate's degree,standard,completed,62,56,53
+ADM20260334,Kabir Mishra,male,group B,associate's degree,standard,none,90,78,81
+ADM20260327,Reyansh Gupta,female,group C,bachelor's degree,standard,none,83,93,95
+ADM20260336,Myra Jain,female,group B,some college,free/reduced,none,61,68,66
+ADM20260337,Rohan Verma,male,group D,some high school,standard,completed,76,70,69
+ADM20260338,Saanvi Roy,male,group C,associate's degree,standard,none,49,51,43
+ADM20260339,Saanvi Verma,female,group B,some high school,free/reduced,none,24,38,27
+ADM20260340,Kabir Nair,female,group D,some high school,free/reduced,completed,35,55,60
+ADM20260341,Ira Gupta,male,group C,high school,free/reduced,none,58,61,52
+ADM20260342,Myra Joshi,female,group C,high school,standard,none,61,73,63
+ADM20260343,Vivaan Kapoor,female,group B,high school,standard,completed,69,76,74
+ADM20260344,Arjun Jain,male,group D,associate's degree,standard,completed,67,72,67
+ADM20260040,Meera Kapoor,male,group D,some college,standard,none,79,73,67
+ADM20260346,Myra Kapoor,female,group C,high school,standard,none,72,80,75
+ADM20260347,Reyansh Joshi,male,group B,some college,standard,none,62,61,57
+ADM20260348,Aditi Patel,female,group C,bachelor's degree,standard,completed,77,94,95
+ADM20260349,Ira Jain,male,group D,high school,free/reduced,none,75,74,66
+ADM20260350,Aarav Verma,male,group E,associate's degree,standard,none,87,74,76
+ADM20260279,Kabir Jain,female,group B,bachelor's degree,standard,none,52,65,69
+ADM20260352,Vivaan Gupta,male,group E,some college,standard,none,66,57,52
+ADM20260353,Vivaan Jain,female,group C,some college,standard,completed,63,78,80
+ADM20260354,Aarav Jain,female,group C,associate's degree,standard,none,46,58,57
+ADM20260355,Meera Mehta,female,group C,some college,standard,none,59,71,70
+ADM20260356,Rohan Reddy,female,group B,bachelor's degree,standard,none,61,72,70
+ADM20260357,Ira Kapoor,male,group A,associate's degree,standard,none,63,61,61
+ADM20260358,Reyansh Kapoor,female,group C,some college,free/reduced,completed,42,66,69
+ADM20260056,Kabir Mehta,male,group D,some college,free/reduced,none,59,62,61
+ADM20260010,Ananya Jain,female,group D,some college,standard,none,80,90,89
+ADM20260361,Vivaan Nair,female,group B,high school,standard,none,58,62,59
+ADM20260362,Kavya Verma,male,group B,some high school,standard,completed,85,84,78
+ADM20260363,Advait Verma,female,group C,some college,standard,none,52,58,58
+ADM20260364,Ira Verma,female,group D,some high school,free/reduced,none,27,34,32
+ADM20260365,Meera Malhotra,male,group C,some college,standard,none,59,60,58
+ADM20260366,Ira Das,male,group A,bachelor's degree,free/reduced,completed,49,58,60
+ADM20260367,Reyansh Kapoor,male,group C,high school,standard,completed,69,58,53
+ADM20260368,Ananya Malhotra,male,group C,bachelor's degree,free/reduced,none,61,66,61
+ADM20260369,Ira Khan,female,group A,some high school,free/reduced,none,44,64,58
+ADM20260370,Ira Nair,female,group D,some high school,standard,none,73,84,85
+ADM20260371,Kavya Kapoor,male,group E,some college,standard,none,84,77,71
+ADM20260372,Rohan Patel,female,group C,some college,free/reduced,completed,45,73,70
+ADM20260373,Advait Khan,male,group D,some high school,standard,none,74,74,72
+ADM20260374,Kabir Khan,female,group D,some college,standard,completed,82,97,96
+ADM20260375,Diya Gupta,female,group D,bachelor's degree,standard,none,59,70,73
+ADM20260376,Myra Gupta,male,group E,associate's degree,free/reduced,none,46,43,41
+ADM20260377,Aditi Nair,female,group D,some high school,standard,none,80,90,82
+ADM20260378,Kabir Mehta,female,group D,master's degree,free/reduced,completed,85,95,100
+ADM20260139,Ira Das,female,group A,some high school,standard,none,71,83,77
+ADM20260380,Vivaan Roy,male,group A,bachelor's degree,standard,none,66,64,62
+ADM20260064,Vivaan Reddy,female,group B,associate's degree,standard,none,80,86,83
+ADM20260382,Myra Nair,male,group C,associate's degree,standard,completed,87,100,95
+ADM20260383,Diya Kapoor,male,group C,master's degree,free/reduced,none,79,81,71
+ADM20260384,Saanvi Mehta,female,group E,some high school,free/reduced,none,38,49,45
+ADM20260385,Vivaan Das,female,group A,some high school,free/reduced,none,38,43,43
+ADM20260386,Rohan Joshi,female,group E,some college,standard,none,67,76,75
+ADM20260387,Aarav Roy,female,group E,bachelor's degree,standard,none,64,73,70
+ADM20260027,Kavya Joshi,female,group C,associate's degree,free/reduced,none,57,78,67
+ADM20260389,Arjun Verma,female,group D,high school,standard,none,62,64,64
+ADM20260390,Ishaan Mishra,male,group D,master's degree,standard,none,73,70,75
+ADM20260391,Reyansh Malhotra,male,group E,some high school,free/reduced,completed,73,67,59
+ADM20260392,Aditi Verma,female,group D,some college,standard,none,77,68,77
+ADM20260187,Meera Jain,male,group E,some college,standard,none,76,67,67
+ADM20260394,Aarav Malhotra,male,group C,associate's degree,standard,completed,57,54,56
+ADM20260159,Kabir Sharma,female,group C,some high school,standard,completed,65,74,77
+ADM20260396,Aditi Mehta,male,group A,high school,free/reduced,none,48,45,41
+ADM20260397,Ira Mishra,female,group B,high school,free/reduced,none,50,67,63
+ADM20260398,Arjun Patel,female,group C,associate's degree,standard,none,85,89,95
+ADM20260017,Myra Mehta,male,group B,some high school,standard,none,74,63,57
+ADM20260400,Diya Mehta,male,group D,some high school,standard,none,60,59,54
+ADM20260401,Aarav Patel,female,group C,some high school,standard,completed,59,54,67
+ADM20260402,Kabir Nair,male,group A,some college,standard,none,53,43,43
+ADM20260403,Ira Kapoor,female,group A,some college,free/reduced,none,49,65,55
+ADM20260404,Kabir Verma,female,group D,high school,standard,completed,88,99,100
+ADM20260405,Arjun Joshi,female,group C,high school,standard,none,54,59,62
+ADM20260406,Aarav Nair,female,group C,some high school,standard,none,63,73,68
+ADM20260407,Rohan Patel,male,group B,associate's degree,standard,completed,65,65,63
+ADM20260173,Advait Mishra,female,group B,associate's degree,standard,none,82,80,77
+ADM20260409,Aarav Verma,female,group D,high school,free/reduced,completed,52,57,56
+ADM20260410,Rohan Joshi,male,group D,associate's degree,standard,completed,87,84,85
+ADM20260411,Aarav Malhotra,female,group D,master's degree,standard,completed,70,71,74
+ADM20260412,Vivaan Malhotra,male,group E,some college,standard,completed,84,83,78
+ADM20260413,Saanvi Verma,male,group D,associate's degree,standard,none,71,66,60
+ADM20260414,Rohan Nair,male,group B,some high school,standard,completed,63,67,67
+ADM20260321,Kavya Sharma,female,group C,bachelor's degree,free/reduced,completed,51,72,79
+ADM20260416,Ananya Singh,male,group E,high school,standard,none,84,73,69
+ADM20260417,Meera Gupta,male,group C,bachelor's degree,standard,completed,71,74,68
+ADM20260418,Kavya Kapoor,male,group C,associate's degree,standard,none,74,73,67
+ADM20260419,Advait Singh,male,group D,some college,standard,none,68,59,62
+ADM20260420,Aarav Nair,male,group E,high school,free/reduced,completed,57,56,54
+ADM20260421,Ishaan Malhotra,female,group C,associate's degree,free/reduced,completed,82,93,93
+ADM20260422,Reyansh Sharma,female,group D,high school,standard,completed,57,58,64
+ADM20260423,Aarav Sharma,female,group D,master's degree,free/reduced,completed,47,58,67
+ADM20260059,Vivaan Sharma,female,group A,some high school,standard,completed,59,85,80
+ADM20260196,Kavya Jain,male,group B,some college,free/reduced,none,41,39,34
+ADM20260426,Myra Kapoor,female,group C,some college,free/reduced,none,62,67,62
+ADM20260427,Myra Singh,male,group C,bachelor's degree,standard,none,86,83,86
+ADM20260428,Ishaan Mishra,male,group C,some high school,free/reduced,none,69,71,65
+ADM20260429,Ananya Sharma,male,group A,some high school,free/reduced,none,65,59,53
+ADM20260183,Rohan Kapoor,male,group C,some high school,free/reduced,none,68,63,54
+ADM20260137,Myra Nair,male,group C,associate's degree,free/reduced,none,64,66,59
+ADM20260432,Aditi Kapoor,female,group C,high school,standard,none,61,72,70
+ADM20260433,Kavya Roy,male,group C,high school,standard,none,61,56,55
+ADM20260434,Kavya Mishra,female,group A,some high school,free/reduced,none,47,59,50
+ADM20260435,Meera Sharma,male,group C,some high school,standard,none,73,66,66
+ adm20260436 ,Meera Singh,male,group C,some college,free/reduced,completed,50,48,53
+ADM20260437,Aditi Verma,male,group D,associate's degree,standard,none,75,68,64
+ADM20260438,Ira Reddy,male,group D,associate's degree,free/reduced,none,75,66,73
+ADM20260173,Kabir Roy,male,group C,high school,standard,none,70,56,51
+ADM20260440,Kabir Malhotra,male,group D,some high school,standard,completed,89,88,82
+ADM20260441,Aditi Mishra,female,group C,some college,standard,completed,67,81,79
+ADM20260442,Meera Gupta,female,group D,high school,standard,none,78,81,80
+ADM20260443,Kavya Roy,female,group A,some high school,free/reduced,none,59,73,69
+ADM20260444,Aarav Singh,female,group B,associate's degree,standard,none,73,83,76
+ADM20260445,Aarav Patel,male,group A,some high school,free/reduced,none,79,82,73
+ADM20260446,Aditi Roy,female,group C,some high school,standard,completed,67,74,77
+ADM20260447,Kabir Joshi,male,group D,some college,free/reduced,none,69,66,60
+ADM20260448,Ira Jain,male,group C,high school,standard,completed,86,81,80
+ADM20260449,Kabir Sharma,male,group B,high school,standard,none,47,46,42
+ADM20260450,Aditi Jain,male,group B,associate's degree,standard,none,81,73,72
+ADM20260451,Aarav Sharma,female,group C,some college,free/reduced,completed,64,85,85
+ADM20260452,Ananya Nair,female,group E,some college,standard,none,100,92,97
+ADM20260453,Meera Roy,female,group C,associate's degree,free/reduced,none,65,77,74
+ADM20260426,Arjun Gupta,male,group C,some college,free/reduced,none,65,58,49
+ADM20260063,Diya Verma,female,group C,associate's degree,free/reduced,none,53,61,62
+ADM20260456,Advait Gupta,male,group C,bachelor's degree,free/reduced,none,37,56,47
+ADM20260457,Arjun Joshi,female,group D,bachelor's degree,standard,none,79,89,89
+ADM20260458,Saanvi Mehta,male,group D,associate's degree,free/reduced,none,53,54,48
+ADM20260459,Kabir Kapoor,female,group E,bachelor's degree,standard,none,100,100,100
+ADM20260460,Ishaan Malhotra,male,group B,high school,standard,completed,72,65,68
+ADM20260461,Kavya Jain,male,group C,bachelor's degree,free/reduced,none,53,58,55
+ADM20260462,Meera Gupta,male,group B,some college,free/reduced,none,54,54,45
+ADM20260463,Ananya Joshi,female,group E,some college,standard,none,71,70,76
+ADM20260464,Kabir Patel,female,group C,some college,free/reduced,none,77,90,91
+ADM20260465,Arjun Jain,male,group A,bachelor's degree,standard,completed,75,58,62
+ADM20260466,Kabir Roy,female,group C,some college,standard,none,84,87,91
+ADM20260467,Ishaan Malhotra,female,group D,associate's degree,free/reduced,none,26,31,38
+ADM20260468,Meera Joshi,male,group A,high school,free/reduced,completed,72,67,65
+ADM20260469,Vivaan Gupta,female,group A,high school,free/reduced,completed,77,88,85
+ADM20260470,Meera Reddy,male,group C,some college,standard,none,91,74,76
+ADM20260471,Ira Das,female,group C,associate's degree,standard,completed,83,85,90
+ADM20260472,Reyansh Mehta,female,group C,high school,standard,none,63,69,74
+ADM20260473,Vivaan Verma,female,group C,associate's degree,standard,completed,68,86,84
+ADM20260474,Myra Gupta,female,group D,some high school,standard,none,59,67,61
+ADM20260475,Myra Patel,female,group B,associate's degree,standard,completed,90,90,91
+ADM20260476,Aditi Patel,female,group D,bachelor's degree,standard,completed,71,76,83
+ADM20260477,Saanvi Das,male,group E,bachelor's degree,standard,completed,76,62,66
+ADM20260478,Advait Jain,male,group D,associate's degree,standard,none,80,68,72
+ADM20260479,Arjun Malhotra,female,group D,master's degree,standard,none,55,64,70
+ADM20260480,Myra Das,male,group E,associate's degree,standard,none,76,71,67
+ADM20260481,Vivaan Das,male,group B,high school,standard,completed,73,71,68
+ADM20260482,Kavya Singh,female,group D,associate's degree,free/reduced,none,52,59,56
+ADM20260483,Myra Jain,male,group C,some college,free/reduced,none,68,68,61
+ADM20260484,Saanvi Khan,male,group A,high school,standard,none,59,52,46
+ADM20260485,Reyansh Sharma,female,group B,associate's degree,standard,none,49,52,54
+ADM20260486,Ishaan Das,male,group C,high school,standard,none,70,74,71
+ADM20260487,Meera Mehta,male,group D,some college,free/reduced,none,61,47,56
+ADM20260488,Vivaan Singh,female,group C,associate's degree,free/reduced,none,60,75,74
+ADM20260002,Aditi Jain,male,group B,some high school,standard,completed,64,53,57
+ADM20260490,Diya Jain,male,group A,associate's degree,free/reduced,completed,79,82,82
+ADM20260491,Saanvi Roy,female,group A,associate's degree,free/reduced,none,65,85,76
+ADM20260492,Kabir Malhotra,female,group C,associate's degree,standard,none,64,64,70
+ADM20260312,Saanvi Malhotra,female,group C,some college,standard,none,83,83,90
+ADM20260494,Saanvi Khan,female,group C,bachelor's degree,standard,none,81,88,90
+ADM20260495,Ananya Kapoor,female,group B,high school,standard,none,54,64,68
+ADM20260496,Diya Reddy,male,group D,high school,standard,completed,68,64,66
+ADM20260497,Ananya Das,female,group C,some college,standard,none,54,48,52
+ADM20260498,Kabir Malhotra,female,group D,some college,free/reduced,completed,59,78,76
+ADM20260499,Kabir Khan,female,group B,some high school,standard,none,66,69,68
+ADM20260500,Myra Reddy,male,group E,some college,standard,none,76,71,72
+ADM20260501,Advait Roy,female,group D,master's degree,standard,none,74,79,82
+ADM20260502,Kabir Nair,female,group B,associate's degree,standard,completed,94,87,92
+ADM20260503,Vivaan Nair,male,group C,some college,free/reduced,none,63,61,54
+ADM20260504,Kavya Reddy,female,group E,associate's degree,standard,completed,95,89,92
+ADM20260297,Ira Reddy,female,group D,master's degree,free/reduced,none,40,59,54
+ADM20260506,Ishaan Kapoor,female,group B,some high school,standard,none,82,82,80
+ adm20260507 ,Ananya Khan,male,group A,high school,standard,none,68,70,66
+ADM20260508,Kabir Mishra,male,group B,bachelor's degree,free/reduced,none,55,59,54
+ADM20260509,Arjun Mehta,male,group C,master's degree,standard,none,79,78,77
+ADM20260510,Aarav Verma,female,group C,bachelor's degree,standard,none,86,92,87
+ADM20260511,Aarav Verma,male,group D,some college,standard,none,76,71,73
+ADM20260512,Kavya Mishra,male,group A,some high school,standard,none,64,50,43
+ADM20260513,Kavya Sharma,male,group D,some high school,free/reduced,none,62,49,52
+ADM20260514,Aditi Patel,female,group B,some high school,standard,completed,54,61,62
+ADM20260515,Saanvi Khan,female,group B,master's degree,free/reduced,completed,77,97,94
+ADM20260516,Meera Gupta,female,group C,some high school,standard,completed,76,87,85
+ADM20260517,Ira Khan,female,group D,some college,standard,none,74,89,84
+ADM20260508,Aditi Roy,female,group E,some college,standard,completed,66,74,73
+ADM20260519,Reyansh Sharma,female,group D,some high school,standard,completed,66,78,78
+ADM20260520,Arjun Mishra,female,group B,high school,free/reduced,completed,67,78,79
+ADM20260521,Ira Mishra,male,group D,some college,standard,none,71,49,52
+ADM20260522,Arjun Khan,female,group C,associate's degree,standard,none,91,86,84
+ADM20260523,Ira Gupta,male,group D,bachelor's degree,standard,none,69,58,57
+ADM20260524,Ananya Jain,male,group C,master's degree,free/reduced,none,54,59,50
+ADM20260525,Rohan Verma,male,group C,high school,standard,completed,53,52,49
+ADM20260526,Kabir Khan,male,group E,some college,standard,none,68,60,59
+ADM20260527,Kabir Joshi,male,group C,some high school,free/reduced,completed,56,61,60
+ADM20260528,Aditi Joshi,female,group C,high school,free/reduced,none,36,53,43
+ADM20260529,Meera Kapoor,female,group D,bachelor's degree,free/reduced,none,29,41,47
+ adm20260530 ,Arjun Patel,female,group C,associate's degree,standard,none,62,74,70
+ADM20260531,Advait Roy,female,group C,associate's degree,standard,completed,68,67,73
+ADM20260532,Vivaan Roy,female,group C,some high school,standard,none,47,54,53
+ADM20260533,Advait Das,male,group E,associate's degree,standard,completed,62,61,58
+ADM20260534,Reyansh Malhotra,female,group E,associate's degree,standard,completed,79,88,94
+ADM20260535,Diya Sharma,male,group B,high school,standard,completed,73,69,68
+ADM20260536,Rohan Singh,female,group C,bachelor's degree,free/reduced,completed,66,83,83
+ADM20260537,Advait Reddy,male,group C,associate's degree,standard,completed,51,60,58
+ADM20260538,Meera Gupta,female,group D,high school,standard,none,51,66,62
+ADM20260539,Ira Gupta,male,group E,bachelor's degree,standard,completed,85,66,71
+ADM20260540,Arjun Mishra,male,group A,associate's degree,standard,completed,97,92,86
+ADM20260200,Reyansh Joshi,male,group C,high school,standard,completed,75,69,68
+ADM20260542,Myra Reddy,male,group D,associate's degree,free/reduced,completed,79,82,80
+ADM20260543,Ananya Mishra,female,group C,associate's degree,standard,none,81,77,79
+ADM20260544,Advait Joshi,female,group D,associate's degree,standard,none,82,95,89
+ADM20260545,Rohan Gupta,female,group D,master's degree,standard,none,64,63,66
+ADM20260546,Kabir Mehta,male,group E,some high school,free/reduced,completed,78,83,80
+ADM20260547,Kavya Das,female,group A,some high school,standard,completed,92,100,97
+ADM20260247,Diya Verma,male,group C,high school,standard,completed,72,67,64
+ADM20260549,Kavya Kapoor,female,group C,high school,free/reduced,none,62,67,64
+ADM20260550,Aarav Das,male,group C,master's degree,standard,none,79,72,69
+ADM20260551,Meera Mehta,male,group C,some high school,free/reduced,none,79,76,65
+ADM20260552,Reyansh Gupta,male,group B,bachelor's degree,free/reduced,completed,87,90,88
+ADM20260553,Ishaan Gupta,female,group B,associate's degree,standard,none,40,48,50
+ADM20260554,Ananya Nair,male,group D,some college,free/reduced,none,77,62,64
+ADM20260075,Myra Sharma,male,group E,associate's degree,standard,none,53,45,40
+ADM20260556,Rohan Singh,female,group C,some college,free/reduced,none,32,39,33
+ADM20260557,Ananya Patel,female,group C,associate's degree,standard,completed,55,72,79
+ADM20260558,Ananya Mehta,male,group C,master's degree,free/reduced,none,61,67,66
+ADM20260559,Myra Jain,female,group B,associate's degree,free/reduced,none,53,70,70
+ADM20260560,Ira Mehta,male,group D,some high school,standard,none,73,66,62
+ adm20260561 ,Aarav Verma,female,group D,some college,standard,completed,74,75,79
+ADM20260562,Ishaan Singh,female,group C,some college,standard,none,63,74,74
+ADM20260563,Kavya Mishra,male,group C,bachelor's degree,standard,completed,96,90,92
+ADM20260564,Kavya Malhotra,female,group D,some college,free/reduced,completed,63,80,80
+ADM20260565,Kabir Malhotra,male,group B,bachelor's degree,free/reduced,none,48,51,46
+ADM20260566,Arjun Malhotra,male,group B,associate's degree,standard,none,48,43,45
+ADM20260567,Advait Kapoor,female,group E,bachelor's degree,free/reduced,completed,92,100,100
+ADM20260568,Saanvi Sharma,female,group D,master's degree,free/reduced,completed,61,71,78
+ADM20260569,Ira Khan,male,group B,high school,free/reduced,none,63,48,47
+ADM20260427,Ira Reddy,male,group D,bachelor's degree,free/reduced,none,68,68,67
+ADM20260571,Reyansh Khan,male,group B,some college,standard,completed,71,75,70
+ADM20260572,Reyansh Mishra,male,group A,bachelor's degree,standard,none,91,96,92
+ADM20260573,Diya Mehta,female,group C,some college,standard,none,53,62,56
+ADM20260574,Kabir Kapoor,female,group C,high school,free/reduced,completed,50,66,64
+ADM20260575,Ira Mishra,female,group E,high school,standard,none,74,81,71
+ADM20260141,Diya Reddy,male,group A,associate's degree,free/reduced,completed,40,55,53
+ADM20260577,Arjun Nair,male,group A,some college,standard,completed,61,51,52
+ADM20260578,Ishaan Jain,female,group B,high school,standard,none,81,91,89
+ADM20260579,Aditi Mishra,female,group B,some college,free/reduced,completed,48,56,58
+ADM20260580,Arjun Khan,female,group D,master's degree,standard,none,53,61,68
+ADM20260581,Saanvi Mehta,female,group D,some high school,standard,none,81,97,96
+ADM20260582,Kavya Reddy,female,group E,some high school,standard,none,77,79,80
+ADM20260583,Kabir Verma,female,group D,bachelor's degree,free/reduced,none,63,73,78
+ADM20260584,Aarav Das,female,group D,associate's degree,standard,completed,73,75,80
+ADM20260585,Myra Nair,female,group D,some college,standard,none,69,77,77
+ADM20260586,Rohan Malhotra,female,group C,associate's degree,standard,none,65,76,76
+ADM20260587,Arjun Gupta,female,group A,high school,standard,none,55,73,73
+ADM20260588,Aarav Khan,female,group C,bachelor's degree,free/reduced,none,44,63,62
+ADM20260589,Diya Singh,female,group C,some college,standard,none,54,64,65
+ADM20260590,Ishaan Sharma,female,group A,some high school,standard,none,48,66,65
+ADM20260591,Saanvi Nair,male,group C,some college,free/reduced,none,58,57,54
+ADM20260592,Ira Mehta,male,group A,some high school,standard,none,71,62,50
+ADM20260359,Arjun Patel,male,group E,bachelor's degree,standard,none,68,68,64
+ADM20260594,Vivaan Jain,female,group E,high school,standard,none,74,76,73
+ADM20260595,Saanvi Sharma,female,group C,bachelor's degree,standard,completed,92,100,99
+ADM20260596,Arjun Patel,female,group C,bachelor's degree,standard,completed,56,79,72
+ADM20260597,Vivaan Roy,male,group B,high school,free/reduced,none,30,24,15
+ADM20260598,Kabir Malhotra,male,group A,some high school,standard,none,53,54,48
+ADM20260599,Ira Joshi,female,group D,high school,standard,none,69,77,73
+ADM20260600,Advait Jain,female,group D,some high school,standard,none,65,82,81
+ADM20260601,Reyansh Mehta,female,group D,master's degree,standard,none,54,60,63
+ADM20260602,Myra Kapoor,female,group C,high school,standard,none,29,29,30
+ADM20260603,Rohan Nair,female,group E,some college,standard,none,76,78,80
+ADM20260604,Kabir Roy,male,group D,high school,free/reduced,none,60,57,51
+ADM20260605,Ishaan Joshi,male,group D,master's degree,free/reduced,completed,84,89,90
+ADM20260606,Saanvi Kapoor,male,group C,some high school,standard,none,75,72,62
+ADM20260607,Meera Mishra,female,group C,associate's degree,standard,none,85,84,82
+ADM20260181,Aditi Verma,female,group C,master's degree,free/reduced,none,40,58,54
+ADM20260568,Kabir Roy,female,group E,some college,standard,none,61,64,62
+ADM20260610,Advait Mehta,female,group B,associate's degree,standard,none,58,63,65
+ADM20260611,Rohan Reddy,male,group D,some college,free/reduced,completed,69,60,63
+ADM20260612,Myra Malhotra,female,group C,some college,standard,none,58,59,66
+ADM20260613,Arjun Joshi,male,group C,bachelor's degree,standard,completed,94,90,91
+ADM20260614,Aditi Joshi,female,group C,associate's degree,standard,none,65,77,74
+ADM20260615,Vivaan Patel,female,group A,associate's degree,standard,none,82,93,93
+ADM20260616,Kavya Roy,female,group C,high school,standard,none,60,68,72
+ADM20260617,Myra Roy,female,group E,bachelor's degree,standard,none,37,45,38
+ADM20260618,Rohan Khan,male,group D,bachelor's degree,standard,none,88,78,83
+ADM20260619,Aarav Verma,male,group D,master's degree,standard,none,95,81,84
+ADM20260620,Ishaan Sharma,male,group C,associate's degree,free/reduced,completed,65,73,68
+ADM20260621,Kabir Kapoor,female,group C,high school,free/reduced,none,35,61,54
+ADM20260622,Myra Mehta,male,group B,bachelor's degree,free/reduced,none,62,63,56
+ADM20260623,Reyansh Joshi,male,group C,high school,free/reduced,completed,58,51,52
+ADM20260624,Kavya Mehta,male,group A,some college,standard,completed,100,96,86
+ADM20260625,Diya Joshi,female,group E,bachelor's degree,free/reduced,none,61,58,62
+ADM20260626,Ananya Das,male,group D,some college,standard,completed,100,97,99
+ADM20260627,Aditi Kapoor,male,group B,associate's degree,free/reduced,completed,69,70,63
+ADM20260347,Rohan Verma,male,group D,associate's degree,standard,none,61,48,46
+ADM20260629,Ananya Reddy,male,group D,some college,free/reduced,none,49,57,46
+ADM20260148,Kabir Kapoor,female,group C,some high school,standard,completed,44,51,55
+ADM20260631,Ishaan Nair,male,group D,some college,standard,none,67,64,70
+ADM20260632,Meera Mishra,male,group B,high school,standard,none,79,60,65
+ADM20260633,Ananya Sharma,female,group B,bachelor's degree,standard,completed,66,74,81
+ADM20260016,Aarav Khan,female,group C,high school,standard,none,75,88,85
+ADM20260635,Myra Sharma,male,group D,some high school,standard,none,84,84,80
+ADM20260636,Diya Verma,male,group A,high school,standard,none,71,74,64
+ADM20260637,Reyansh Malhotra,female,group B,high school,free/reduced,completed,67,80,81
+ADM20260638,Advait Roy,female,group D,some high school,standard,completed,80,92,88
+ADM20260639,Rohan Kapoor,male,group E,some college,standard,none,86,76,74
+ADM20260640,Aarav Mishra,female,group D,associate's degree,standard,none,76,74,73
+ADM20260641,Ira Roy,male,group D,high school,standard,none,41,52,51
+ADM20260642,Arjun Kapoor,female,group D,associate's degree,free/reduced,completed,74,88,90
+ADM20260643,Arjun Sharma,female,group B,some high school,free/reduced,none,72,81,79
+ADM20260644,Reyansh Singh,female,group E,high school,standard,completed,74,79,80
+ADM20260645,Aditi Jain,male,group B,high school,standard,none,70,65,60
+ADM20260646,Ananya Mishra,female,group B,bachelor's degree,standard,completed,65,81,81
+ADM20260444,Meera Sharma,female,group D,associate's degree,standard,none,59,70,65
+ADM20260648,Myra Reddy,female,group E,high school,free/reduced,none,64,62,68
+ADM20260649,Ishaan Malhotra,female,group B,high school,standard,none,50,53,55
+ADM20260650,Kabir Sharma,female,group D,some college,standard,completed,69,79,81
+ADM20260651,Advait Das,male,group C,some high school,free/reduced,completed,51,56,53
+ADM20260652,Ira Nair,female,group A,high school,standard,completed,68,80,76
+ADM20260653,Saanvi Malhotra,female,group D,some college,standard,completed,85,86,98
+ADM20260654,Ishaan Singh,female,group A,associate's degree,standard,completed,65,70,74
+ADM20260655,Arjun Mishra,female,group B,some high school,standard,none,73,79,79
+ADM20260213,Kabir Khan,female,group B,some college,standard,none,62,67,67
+ADM20260657,Advait Mishra,male,group C,associate's degree,free/reduced,none,77,67,64
+ADM20260470,Reyansh Patel,male,group D,some high school,standard,none,69,66,61
+ADM20260659,Ira Jain,female,group D,associate's degree,free/reduced,none,43,60,58
+ADM20260660,Meera Das,male,group D,associate's degree,standard,none,90,87,85
+ADM20260661,Aditi Patel,male,group C,some college,free/reduced,none,74,77,73
+ADM20260077,Kabir Nair,male,group C,some high school,standard,none,73,66,63
+ADM20260663,Kavya Singh,female,group D,some college,free/reduced,none,55,71,69
+ADM20260664,Rohan Verma,female,group C,high school,standard,none,65,69,67
+ADM20260665,Rohan Khan,male,group D,associate's degree,standard,none,80,63,63
+ADM20260666,Meera Roy,female,group C,some high school,free/reduced,completed,50,60,60
+ADM20260525,Arjun Kapoor,female,group C,some college,free/reduced,completed,63,73,71
+ADM20260668,Kabir Joshi,female,group B,bachelor's degree,free/reduced,none,77,85,87
+ADM20260669,Rohan Patel,male,group C,some college,standard,none,73,74,61
+ADM20260670,Advait Das,male,group D,associate's degree,standard,completed,81,72,77
+ADM20260671,Kabir Gupta,female,group C,high school,free/reduced,none,66,76,68
+ADM20260672,Aditi Jain,male,group D,associate's degree,free/reduced,none,52,57,50
+ADM20260673,Vivaan Joshi,female,group C,some college,standard,none,69,78,76
+ADM20260674,Kavya Roy,female,group C,associate's degree,standard,completed,65,84,84
+ADM20260675,Ira Jain,female,group D,high school,standard,completed,69,77,78
+ADM20260676,Aarav Das,female,group B,some college,standard,completed,50,64,66
+ADM20260677,Meera Nair,female,group E,some college,standard,completed,73,78,76
+ADM20260678,Ananya Mehta,female,group C,some high school,standard,completed,70,82,76
+ADM20260679,Diya Gupta,male,group D,associate's degree,free/reduced,none,81,75,78
+ADM20260308,Aditi Khan,male,group D,some college,free/reduced,none,63,61,60
+ADM20260681,Aditi Verma,female,group D,high school,standard,none,67,72,74
+ADM20260682,Diya Singh,male,group B,high school,standard,none,60,68,60
+ADM20260230,Kabir Sharma,male,group B,high school,standard,none,62,55,54
+ADM20260684,Ishaan Mehta,female,group C,some high school,free/reduced,completed,29,40,44
+ADM20260685,Myra Malhotra,male,group B,some college,standard,completed,62,66,68
+ADM20260686,Reyansh Khan,female,group E,master's degree,standard,completed,94,99,100
+ADM20260687,Meera Das,male,group E,some college,standard,completed,85,75,68
+ADM20260688,Reyansh Joshi,male,group D,associate's degree,free/reduced,none,77,78,73
+ADM20260689,Myra Kapoor,male,group A,high school,free/reduced,none,53,58,44
+ADM20260690,Kabir Reddy,male,group E,some college,free/reduced,none,93,90,83
+ADM20260691,Myra Patel,female,group C,associate's degree,standard,none,49,53,53
+ADM20260692,Diya Nair,female,group E,associate's degree,free/reduced,none,73,76,78
+ADM20260693,Arjun Singh,female,group C,bachelor's degree,free/reduced,completed,66,74,81
+ADM20260694,Kabir Khan,female,group D,associate's degree,standard,none,77,77,73
+ADM20260473,Reyansh Nair,female,group C,some high school,standard,none,49,63,56
+ADM20260696,Ishaan Reddy,female,group D,some college,free/reduced,none,79,89,86
+ADM20260697,Myra Roy,female,group C,associate's degree,standard,completed,75,82,90
+ADM20260698,Ananya Jain,female,group A,bachelor's degree,standard,none,59,72,70
+ADM20260699,Saanvi Malhotra,female,group D,associate's degree,standard,completed,57,78,79
+ADM20260700,Aarav Patel,male,group C,high school,free/reduced,none,66,66,59
+ADM20260701,Kavya Singh,female,group E,bachelor's degree,standard,completed,79,81,82
+ADM20260040,Ishaan Khan,female,group B,some high school,standard,none,57,67,72
+ADM20260703,Vivaan Gupta,male,group A,bachelor's degree,standard,completed,87,84,87
+ADM20260473,Diya Mishra,female,group D,some college,standard,none,63,64,67
+ADM20260001,Aarav Patel,female,group B,some high school,free/reduced,completed,59,63,64
+ADM20260706,Aarav Reddy,male,group A,bachelor's degree,free/reduced,none,62,72,65
+ADM20260707,Ishaan Kapoor,male,group D,high school,standard,none,46,34,36
+ADM20260300,Saanvi Kapoor,male,group C,some college,standard,none,66,59,52
+ADM20260709,Rohan Mehta,male,group D,high school,standard,none,89,87,79
+ADM20260710,Kavya Mehta,female,group D,associate's degree,free/reduced,completed,42,61,58
+ADM20260711,Myra Joshi,male,group C,some college,standard,completed,93,84,90
+ADM20260712,Saanvi Malhotra,female,group E,some high school,standard,completed,80,85,85
+ADM20260178,Ishaan Mishra,female,group D,some college,standard,none,98,100,99
+ADM20260714,Rohan Nair,male,group D,master's degree,standard,none,81,81,84
+ADM20260715,Ishaan Kapoor,female,group B,some high school,standard,completed,60,70,74
+ADM20260716,Meera Gupta,female,group B,associate's degree,free/reduced,completed,76,94,87
+ADM20260326,Vivaan Reddy,male,group C,associate's degree,standard,completed,73,78,72
+ADM20260718,Diya Verma,female,group C,associate's degree,standard,completed,96,96,99
+ADM20260719,Arjun Malhotra,female,group C,high school,standard,none,76,76,74
+ADM20260720,Diya Joshi,male,group E,associate's degree,free/reduced,completed,91,73,80
+ADM20260721,Advait Reddy,female,group C,some college,free/reduced,none,62,72,70
+ADM20260722,Reyansh Das,male,group D,some high school,free/reduced,completed,55,59,59
+ADM20260232,Vivaan Sharma,female,group B,some high school,free/reduced,completed,74,90,88
+ADM20260572,Myra Joshi,male,group C,high school,standard,none,50,48,42
+ADM20260725,Ira Verma,male,group B,some college,standard,none,47,43,41
+ADM20260726,Ishaan Sharma,male,group E,some college,standard,completed,81,74,71
+ADM20260727,Aarav Singh,female,group E,associate's degree,standard,completed,65,75,77
+ADM20260728,Saanvi Verma,male,group E,some high school,standard,completed,68,51,57
+ADM20260729,Myra Mehta,female,group D,high school,free/reduced,none,73,92,84
+ADM20260730,Ishaan Reddy,male,group C,some college,standard,none,53,39,37
+ADM20260731,Advait Khan,female,group B,associate's degree,free/reduced,completed,68,77,80
+ADM20260732,Aarav Sharma,male,group A,some high school,free/reduced,none,55,46,43
+ADM20260733,Kavya Verma,female,group C,some college,standard,completed,87,89,94
+ADM20260734,Rohan Das,male,group D,some high school,standard,none,55,47,44
+ADM20260735,Advait Sharma,female,group E,some college,free/reduced,none,53,58,57
+ADM20260736,Reyansh Roy,male,group C,master's degree,standard,none,67,57,59
+ADM20260737,Meera Singh,male,group C,associate's degree,standard,none,92,79,84
+ADM20260738,Myra Patel,female,group B,some college,free/reduced,completed,53,66,73
+ADM20260739,Meera Das,male,group D,associate's degree,standard,none,81,71,73
+ADM20260740,Ananya Das,male,group C,high school,free/reduced,none,61,60,55
+ADM20260741,Vivaan Sharma,male,group D,bachelor's degree,standard,none,80,73,72
+ADM20260742,Ishaan Verma,female,group A,associate's degree,free/reduced,none,37,57,56
+ADM20260743,Arjun Mishra,female,group C,high school,standard,none,81,84,82
+ADM20260744,Vivaan Sharma,female,group C,associate's degree,standard,completed,59,73,72
+ADM20260745,Aditi Reddy,male,group B,some college,free/reduced,none,55,55,47
+ADM20260746,Ishaan Mehta,male,group D,associate's degree,standard,none,72,79,74
+ADM20260747,Aarav Khan,male,group D,high school,standard,none,69,75,71
+ADM20260748,Arjun Das,male,group C,some college,standard,none,69,64,68
+ADM20260749,Kabir Kapoor,female,group C,bachelor's degree,free/reduced,none,50,60,59
+ADM20260750,Meera Mishra,male,group B,some college,standard,completed,87,84,86
+ADM20260630,Kabir Patel,male,group D,some high school,standard,completed,71,69,68
+ADM20260752,Ananya Khan,male,group E,some college,standard,none,68,72,65
+ADM20260753,Saanvi Singh,male,group C,master's degree,free/reduced,completed,79,77,75
+ADM20260754,Reyansh Mehta,female,group C,some high school,standard,completed,77,90,85
+ADM20260755,Kavya Malhotra,male,group C,associate's degree,free/reduced,none,58,55,53
+ADM20260756,Diya Singh,female,group E,associate's degree,standard,none,84,95,92
+ADM20260757,Ira Khan,male,group D,some college,standard,none,55,58,52
+ADM20260758,Ananya Nair,male,group E,bachelor's degree,free/reduced,completed,70,68,72
+ADM20260759,Meera Sharma,female,group D,some college,free/reduced,completed,52,59,65
+ADM20260760,Meera Mehta,male,group B,some college,standard,completed,69,77,77
+ADM20260761,Kavya Roy,female,group C,high school,free/reduced,none,53,72,64
+ADM20260762,Ananya Gupta,female,group D,some high school,standard,none,48,58,54
+ADM20260763,Saanvi Sharma,male,group D,some high school,standard,completed,78,81,86
+ADM20260764,Diya Gupta,female,group B,high school,standard,none,62,62,63
+ADM20260765,Aarav Nair,male,group D,some college,standard,none,60,63,59
+ADM20260766,Aditi Sharma,female,group B,high school,standard,none,74,72,72
+ADM20260767,Reyansh Singh,female,group C,high school,standard,completed,58,75,77
+ADM20260768,Kavya Sharma,male,group B,high school,standard,completed,76,62,60
+ADM20260769,Vivaan Verma,female,group D,some high school,standard,none,68,71,75
+ADM20260770,Ira Jain,male,group A,some college,free/reduced,none,58,60,57
+ADM20260771,Meera Singh,male,group B,high school,standard,none,52,48,49
+ADM20260772,Aditi Jain,male,group D,bachelor's degree,standard,none,75,73,74
+ADM20260773,Ananya Jain,female,group B,some high school,free/reduced,completed,52,67,72
+ADM20260774,Rohan Mishra,female,group C,bachelor's degree,free/reduced,none,62,78,79
+ADM20260775,Meera Sharma,male,group B,some college,standard,none,66,65,60
+ADM20260138,Ishaan Mishra,female,group B,some high school,free/reduced,none,49,58,55
+ADM20260777,Kabir Jain,female,group B,high school,standard,none,66,72,70
+ADM20260778,Meera Gupta,female,group C,some college,free/reduced,none,35,44,43
+ADM20260779,Reyansh Kapoor,female,group A,some college,standard,completed,72,79,82
+ADM20260780,Myra Mishra,male,group E,associate's degree,standard,completed,94,85,82
+ADM20260781,Ishaan Patel,female,group D,associate's degree,free/reduced,none,46,56,57
+ADM20260782,Ananya Nair,female,group B,master's degree,standard,none,77,90,84
+ADM20260783,Kabir Mehta,female,group B,high school,free/reduced,completed,76,85,82
+ADM20260784,Myra Jain,female,group C,associate's degree,standard,completed,52,59,62
+ADM20260785,Reyansh Joshi,male,group C,bachelor's degree,standard,completed,91,81,79
+ADM20260786,Aditi Khan,female,group B,some high school,standard,completed,32,51,44
+ADM20260787,Ira Mishra,female,group E,some high school,free/reduced,none,72,79,77
+ADM20260788,Vivaan Khan,female,group B,some college,standard,none,19,38,32
+ADM20260789,Kabir Kapoor,male,group C,associate's degree,free/reduced,none,68,65,61
+ADM20260790,Aditi Jain,female,group C,master's degree,free/reduced,none,52,65,61
+ADM20260791,Ishaan Singh,female,group B,high school,standard,none,48,62,60
+ADM20260230,Kabir Das,female,group D,some college,free/reduced,none,60,66,70
+ADM20260542,Rohan Khan,male,group D,high school,free/reduced,none,66,74,69
+ADM20260794,Kavya Verma,male,group E,some high school,standard,completed,89,84,77
+ADM20260795,Kavya Sharma,female,group B,high school,standard,none,42,52,51
+ADM20260796,Ira Khan,female,group E,associate's degree,free/reduced,completed,57,68,73
+ADM20260797,Arjun Sharma,male,group D,high school,standard,none,70,70,70
+ADM20260798,Ira Gupta,female,group E,associate's degree,free/reduced,none,70,84,81
+ADM20260799,Rohan Roy,male,group E,some college,standard,none,69,60,54
+ADM20260188,Kavya Roy,female,group C,associate's degree,standard,none,52,55,57
+ADM20260801,Ishaan Roy,male,group C,some high school,standard,completed,67,73,68
+ADM20260802,Kavya Khan,male,group C,some high school,standard,completed,76,80,73
+ADM20260803,Aditi Nair,female,group E,associate's degree,standard,none,87,94,95
+ADM20260804,Vivaan Jain,female,group B,some college,standard,none,82,85,87
+ADM20260805,Ananya Gupta,female,group C,some college,standard,none,73,76,78
+ADM20260806,Advait Gupta,male,group A,some college,free/reduced,none,75,81,74
+ADM20260807,Rohan Roy,female,group D,some college,free/reduced,none,64,74,75
+ADM20260808,Aarav Gupta,female,group E,high school,free/reduced,none,41,45,40
+ADM20260809,Advait Reddy,male,group C,high school,standard,none,90,75,69
+ADM20260810,Aditi Joshi,male,group B,bachelor's degree,standard,none,59,54,51
+ADM20260811,Ishaan Sharma,male,group A,some high school,standard,none,51,31,36
+ADM20260735,Reyansh Sharma,male,group A,high school,free/reduced,none,45,47,49
+ADM20260813,Kabir Joshi,female,group C,master's degree,standard,completed,54,64,67
+ADM20260814,Saanvi Jain,male,group E,some high school,standard,completed,87,84,76
+ADM20260815,Arjun Gupta,female,group C,high school,standard,none,72,80,83
+ADM20260816,Saanvi Nair,male,group B,some high school,standard,completed,94,86,87
+ADM20260817,Aditi Nair,female,group A,bachelor's degree,standard,none,45,59,64
+ADM20260818,Arjun Reddy,male,group D,bachelor's degree,free/reduced,completed,61,70,76
+ADM20260819,Vivaan Jain,female,group B,high school,free/reduced,none,60,72,68
+ADM20260820,Vivaan Patel,female,group C,some high school,standard,none,77,91,88
+ADM20260821,Ira Sharma,female,group A,some high school,standard,completed,85,90,92
+ADM20260822,Meera Jain,female,group D,bachelor's degree,free/reduced,none,78,90,93
+ADM20260823,Vivaan Patel,male,group E,some college,free/reduced,completed,49,52,51
+ADM20260824,Diya Malhotra,female,group B,high school,free/reduced,none,71,87,82
+ADM20260825,Myra Mishra,female,group C,some high school,free/reduced,none,48,58,52
+ADM20260826,Ananya Sharma,male,group C,high school,standard,none,62,67,58
+ADM20260827,Aarav Jain,female,group C,associate's degree,free/reduced,completed,56,68,70
+ADM20260828,Vivaan Singh,female,group C,some high school,standard,none,65,69,76
+ADM20260829,Kavya Mishra,female,group D,some high school,free/reduced,completed,69,86,81
+ADM20260830,Kavya Patel,male,group B,some high school,standard,none,68,54,53
+ADM20260831,Saanvi Jain,female,group A,some college,free/reduced,none,61,60,57
+ADM20260832,Vivaan Reddy,female,group C,bachelor's degree,free/reduced,completed,74,86,89
+ADM20260833,Kabir Das,male,group A,bachelor's degree,standard,none,64,60,58
+ADM20260834,Advait Malhotra,female,group B,high school,standard,completed,77,82,89
+ADM20260835,Kabir Roy,male,group B,some college,standard,none,58,50,45
+ADM20260836,Advait Jain,female,group C,high school,standard,completed,60,64,74
+ADM20260837,Ishaan Kapoor,male,group E,high school,standard,none,73,64,57
+ADM20260838,Ira Joshi,female,group A,high school,standard,completed,75,82,79
+ADM20260839,Vivaan Das,male,group B,associate's degree,free/reduced,completed,58,57,53
+ADM20260840,Reyansh Reddy,female,group C,associate's degree,standard,none,66,77,73
+ADM20260484,Myra Sharma,female,group D,high school,free/reduced,none,39,52,46
+ADM20260842,Aarav Kapoor,male,group C,some high school,standard,none,64,58,51
+ADM20260746,Diya Reddy,female,group B,high school,free/reduced,completed,23,44,36
+ADM20260844,Arjun Das,male,group B,some college,free/reduced,completed,74,77,76
+ADM20260845,Myra Verma,female,group D,some high school,free/reduced,completed,40,65,64
+ADM20260846,Advait Nair,male,group E,master's degree,standard,none,90,85,84
+ADM20260847,Rohan Das,male,group C,master's degree,standard,completed,91,85,85
+ADM20260848,Vivaan Malhotra,male,group D,high school,standard,none,64,54,50
+ADM20260849,Meera Gupta,female,group C,high school,standard,none,59,72,68
+ADM20260850,Diya Joshi,male,group D,associate's degree,standard,none,80,75,69
+ adm20260851 ,Ishaan Gupta,male,group C,master's degree,standard,none,71,67,67
+ADM20260852,Rohan Singh,female,group A,high school,standard,none,61,68,63
+ADM20260853,Reyansh Mishra,female,group E,some college,standard,none,87,85,93
+ADM20260854,Myra Nair,male,group E,some high school,standard,none,82,67,61
+ADM20260855,Ananya Singh,male,group C,some high school,standard,none,62,64,55
+ADM20260856,Diya Mehta,female,group B,bachelor's degree,standard,none,97,97,96
+ADM20260857,Reyansh Roy,male,group B,some college,free/reduced,none,75,68,65
+ADM20260858,Rohan Nair,female,group C,bachelor's degree,standard,none,65,79,81
+ADM20260859,Rohan Das,male,group B,high school,standard,completed,52,49,46
+ADM20260706,Arjun Reddy,male,group C,associate's degree,free/reduced,none,87,73,72
+ADM20260861,Aditi Roy,female,group C,associate's degree,standard,none,53,62,53
+ADM20260862,Rohan Roy,female,group E,master's degree,free/reduced,none,81,86,87
+ADM20260863,Kabir Kapoor,male,group D,bachelor's degree,free/reduced,completed,39,42,38
+ADM20260864,Myra Jain,female,group C,some college,standard,completed,71,71,80
+ADM20260865,Meera Verma,male,group C,associate's degree,standard,none,97,93,91
+ adm20260866 ,Advait Nair,male,group D,some college,standard,completed,82,82,88
+ADM20260867,Ira Mishra,male,group C,high school,free/reduced,none,59,53,52
+ADM20260868,Kavya Kapoor,male,group B,associate's degree,standard,none,61,42,41
+ADM20260869,Kabir Verma,male,group E,associate's degree,free/reduced,completed,78,74,72
+ADM20260870,Aarav Singh,male,group C,associate's degree,free/reduced,none,49,51,51
+ADM20260871,Arjun Roy,male,group B,high school,standard,none,59,58,47
+ADM20260872,Meera Sharma,female,group C,some college,standard,completed,70,72,76
+ADM20260873,Ananya Joshi,male,group B,associate's degree,standard,completed,82,84,78
+ADM20260874,Myra Das,male,group E,associate's degree,free/reduced,none,90,90,82
+ADM20260875,Advait Roy,female,group C,bachelor's degree,free/reduced,none,43,62,61
+ADM20260876,Reyansh Nair,male,group C,some college,free/reduced,none,80,64,66
+ adm20260877 ,Rohan Das,male,group D,some college,standard,none,81,82,84
+ADM20260878,Rohan Khan,male,group C,some high school,standard,none,57,61,54
+ADM20260640,Diya Jain,female,group D,some high school,standard,none,59,72,80
+ADM20260824,Saanvi Jain,female,group D,associate's degree,standard,none,64,76,74
+ADM20260881,Arjun Das,male,group C,bachelor's degree,standard,completed,63,64,66
+ADM20260585,Aarav Jain,female,group E,bachelor's degree,standard,completed,71,70,70
+ADM20260883,Saanvi Nair,female,group B,high school,free/reduced,none,64,73,71
+ADM20260884,Kabir Mehta,male,group D,bachelor's degree,free/reduced,none,55,46,44
+ADM20260885,Aditi Singh,female,group E,associate's degree,standard,none,51,51,54
+ADM20260886,Diya Das,female,group C,associate's degree,standard,completed,62,76,80
+ADM20260887,Diya Das,female,group E,associate's degree,standard,completed,93,100,95
+ADM20260888,Advait Gupta,male,group C,high school,free/reduced,none,54,72,59
+ADM20260889,Diya Gupta,female,group D,some college,free/reduced,none,69,65,74
+ADM20260890,Ishaan Malhotra,male,group D,high school,free/reduced,none,44,51,48
+ADM20260891,Aarav Khan,female,group E,some college,standard,completed,86,85,91
+ADM20260892,Aarav Joshi,female,group E,associate's degree,standard,none,85,92,85
+ADM20260893,Ira Singh,female,group A,master's degree,free/reduced,none,50,67,73
+ADM20260894,Ananya Verma,male,group D,some high school,standard,completed,88,74,75
+ADM20260895,Meera Kapoor,female,group E,associate's degree,standard,none,59,62,69
+ADM20260896,Saanvi Nair,female,group E,some high school,free/reduced,none,32,34,38
+ADM20260897,Diya Patel,male,group B,high school,free/reduced,none,36,29,27
+ADM20260898,Meera Singh,female,group B,some high school,free/reduced,completed,63,78,79
+ADM20260899,Myra Gupta,male,group D,associate's degree,standard,completed,67,54,63
+ADM20260900,Meera Reddy,female,group D,some high school,standard,completed,65,78,82
+ADM20260901,Aarav Mehta,male,group D,master's degree,standard,none,85,84,89
+ADM20260902,Meera Patel,female,group C,master's degree,standard,none,73,78,74
+ adm20260903 ,Vivaan Sharma,female,group A,high school,free/reduced,completed,34,48,41
+ADM20260904,Aarav Mehta,female,group D,bachelor's degree,free/reduced,completed,93,100,100
+ADM20260245,Aditi Joshi,female,group D,some high school,free/reduced,none,67,84,84
+ADM20260906,Ananya Malhotra,male,group D,some college,standard,none,88,77,77
+ADM20260907,Rohan Mehta,male,group B,high school,standard,none,57,48,51
+ADM20260908,Reyansh Verma,female,group D,some college,standard,completed,79,84,91
+ADM20260909,Ananya Patel,female,group C,bachelor's degree,free/reduced,none,67,75,72
+ADM20260910,Vivaan Patel,male,group E,bachelor's degree,standard,completed,70,64,70
+ADM20260911,Diya Kapoor,male,group D,bachelor's degree,free/reduced,none,50,42,48
+ADM20260912,Ishaan Nair,female,group A,some college,standard,none,69,84,82
+ADM20260913,Advait Nair,female,group C,bachelor's degree,standard,completed,52,61,66
+ADM20260914,Aditi Joshi,female,group C,bachelor's degree,free/reduced,completed,47,62,66
+ADM20260915,Saanvi Joshi,female,group B,associate's degree,free/reduced,none,46,61,55
+ADM20260916,Diya Joshi,female,group E,some college,standard,none,68,70,66
+ADM20260917,Saanvi Verma,male,group E,bachelor's degree,standard,completed,100,100,100
+ADM20260918,Arjun Gupta,female,group C,high school,standard,none,44,61,52
+ADM20260919,Myra Patel,female,group C,associate's degree,standard,completed,57,77,80
+ADM20260920,Ananya Reddy,male,group B,some college,standard,completed,91,96,91
+ADM20260921,Arjun Verma,male,group D,high school,free/reduced,none,69,70,67
+ADM20260922,Kavya Mishra,female,group C,high school,free/reduced,none,35,53,46
+ADM20260030,Ira Jain,male,group D,high school,standard,none,72,66,66
+ADM20260924,Arjun Reddy,female,group B,associate's degree,free/reduced,none,54,65,65
+ADM20260925,Kabir Gupta,male,group D,high school,free/reduced,none,74,70,69
+ADM20260926,Aditi Patel,male,group E,some high school,standard,completed,74,64,60
+ADM20260927,Meera Gupta,male,group E,associate's degree,free/reduced,none,64,56,52
+ADM20260179,Aditi Mishra,female,group D,high school,free/reduced,completed,65,61,71
+ADM20260929,Diya Jain,male,group E,associate's degree,free/reduced,completed,46,43,44
+ADM20260930,Kabir Roy,female,group C,some high school,free/reduced,none,48,56,51
+ADM20260931,Ira Patel,male,group C,some college,free/reduced,completed,67,74,70
+ADM20260932,Kavya Khan,male,group D,some college,free/reduced,none,62,57,62
+ADM20260933,Kavya Das,male,group D,associate's degree,free/reduced,completed,61,71,73
+ADM20260934,Aditi Kapoor,male,group C,bachelor's degree,free/reduced,completed,70,75,74
+ADM20260935,Aarav Kapoor,male,group C,associate's degree,standard,completed,98,87,90
+ADM20260936,Aarav Singh,male,group D,some college,free/reduced,none,70,63,58
+ADM20260301,Saanvi Joshi,male,group A,associate's degree,standard,none,67,57,53
+ADM20260938,Arjun Verma,female,group E,high school,free/reduced,none,57,58,57
+ADM20260197,Ananya Nair,male,group D,some college,standard,completed,85,81,85
+ADM20260940,Ira Verma,male,group D,some high school,standard,completed,77,68,69
+ADM20260941,Arjun Patel,male,group C,master's degree,free/reduced,completed,72,66,72
+ADM20260942,Vivaan Mishra,female,group D,master's degree,standard,none,78,91,96
+ADM20260943,Saanvi Gupta,male,group C,high school,standard,none,81,66,64
+ADM20260944,Rohan Das,male,group A,some high school,free/reduced,completed,61,62,61
+ADM20260945,Aarav Mehta,female,group B,high school,standard,none,58,68,61
+ADM20260946,Vivaan Singh,female,group C,associate's degree,standard,none,54,61,58
+ADM20260947,Reyansh Roy,male,group B,high school,standard,none,82,82,80
+ADM20260948,Vivaan Mishra,female,group D,some college,free/reduced,none,49,58,60
+ADM20260949,Saanvi Mishra,male,group B,some high school,free/reduced,completed,49,50,52
+ADM20260950,Ira Khan,female,group E,high school,free/reduced,completed,57,75,73
+ADM20260951,Kabir Reddy,male,group E,high school,standard,none,94,73,71
+ADM20260952,Ira Singh,female,group D,some college,standard,completed,75,77,83
+ADM20260953,Diya Singh,female,group E,some high school,free/reduced,none,74,74,72
+ADM20260954,Ishaan Gupta,male,group C,high school,standard,completed,58,52,54
+ADM20260955,Aarav Joshi,female,group C,some college,standard,none,62,69,69
+ADM20260956,Aditi Nair,male,group E,associate's degree,standard,none,72,57,62
+ADM20260957,Aarav Kapoor,male,group C,some college,standard,none,84,87,81
+ADM20260594,Diya Reddy,female,group D,master's degree,standard,none,92,100,100
+ADM20260959,Ishaan Mehta,female,group D,high school,standard,none,45,63,59
+ADM20260960,Meera Reddy,male,group C,high school,standard,none,75,81,71
+ADM20260961,Arjun Reddy,female,group A,some college,standard,none,56,58,64
+ADM20260962,Kavya Das,female,group D,some high school,free/reduced,none,48,54,53
+ADM20260963,Diya Gupta,female,group E,associate's degree,standard,none,100,100,100
+ADM20260964,Diya Gupta,female,group C,some high school,free/reduced,completed,65,76,75
+ADM20260002,Vivaan Joshi,male,group D,some college,standard,none,72,57,58
+ADM20260966,Aditi Mehta,female,group D,some college,standard,none,62,70,72
+ADM20260967,Kavya Joshi,male,group A,some high school,standard,completed,66,68,64
+ADM20260968,Vivaan Gupta,male,group C,some college,standard,none,63,63,60
+ADM20260969,Diya Reddy,female,group E,associate's degree,standard,none,68,76,67
+ADM20260970,Myra Singh,female,group B,bachelor's degree,standard,none,75,84,80
+ADM20260971,Vivaan Patel,female,group D,bachelor's degree,standard,none,89,100,100
+ADM20260972,Kavya Sharma,male,group C,some high school,standard,completed,78,72,69
+ADM20260973,Arjun Verma,female,group A,high school,free/reduced,completed,53,50,60
+ADM20260974,Vivaan Nair,female,group D,some college,free/reduced,none,49,65,61
+ADM20260975,Aarav Khan,female,group A,some college,standard,none,54,63,67
+ADM20260976,Reyansh Jain,female,group C,some college,standard,completed,64,82,77
+ADM20260977,Aditi Mehta,male,group B,some college,free/reduced,completed,60,62,60
+ADM20260978,Myra Das,male,group C,associate's degree,standard,none,62,65,58
+ADM20260979,Kabir Reddy,male,group D,high school,standard,completed,55,41,48
+ADM20260980,Rohan Gupta,female,group C,associate's degree,standard,none,91,95,94
+ADM20260981,Kavya Joshi,female,group B,high school,free/reduced,none,8,24,23
+ADM20260982,Vivaan Mishra,male,group D,some high school,standard,none,81,78,78
+ADM20260750,Kavya Roy,male,group B,some high school,standard,completed,79,85,86
+ADM20260984,Diya Mehta,female,group A,some college,standard,completed,78,87,91
+ADM20260985,Kavya Gupta,female,group C,some high school,standard,none,74,75,82
+ADM20260986,Kavya Nair,male,group A,high school,standard,none,57,51,54
+ADM20260987,Rohan Khan,female,group C,associate's degree,standard,none,40,59,51
+ADM20260988,Kabir Sharma,male,group E,some high school,standard,completed,81,75,76
+ADM20260989,Reyansh Khan,female,group A,some high school,free/reduced,none,44,45,45
+ADM20260990,Aarav Kapoor,female,group D,some college,free/reduced,completed,67,86,83
+ADM20260991,Rohan Jain,male,group E,high school,free/reduced,completed,86,81,75
+ADM20260992,Aarav Kapoor,female,group B,some high school,standard,completed,65,82,78
+ADM20260993,Rohan Kapoor,female,group D,associate's degree,free/reduced,none,55,76,76
+ADM20260994,Kavya Singh,female,group D,bachelor's degree,free/reduced,none,62,72,74
+ADM20260995,Ananya Nair,male,group A,high school,standard,none,63,63,62
+ADM20260996,Kabir Mehta,female,group E,master's degree,standard,completed,88,99,95
+ADM20260997,Ishaan Malhotra,male,group C,high school,free/reduced,none,62,55,55
+ADM20260156,Advait Sharma,female,group C,high school,free/reduced,completed,59,71,65
+ADM20260999,Kabir Joshi,female,group D,some college,standard,completed,68,78,77
+ADM20261000,Ishaan Patel,female,group D,some college,free/reduced,none,77,86,86
